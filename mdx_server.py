@@ -6,8 +6,7 @@ import re
 import os
 import sys
 
-"""modified by tuotech"""
-"""test again"""
+
 if sys.version_info < (3, 0, 0):
     import Tkinter as tk
     import tkFileDialog as filedialog
