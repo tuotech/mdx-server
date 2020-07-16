@@ -1,4 +1,3 @@
-"""modified by tuotech"""
 # -*- coding: utf-8 -*-
 # version: python 3.5
 
@@ -7,6 +6,7 @@ import re
 import os
 import sys
 
+"""modified by tuotech"""
 
 if sys.version_info < (3, 0, 0):
     import Tkinter as tk
